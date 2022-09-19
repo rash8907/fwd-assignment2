@@ -1,0 +1,37 @@
+body {
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+h1{
+  color: cornflowerblue;
+  font-family: 'Quicksand';
+}
+ #checkbox{
+  width: 70%;
+  margin: 0 auto;
+ }
+
+ fieldset {
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  font-size: 1em;
+  font-family: 'Quicksand';
+
+}
+legend{
+  color: cornflowerblue;
+}
+label{
+  color: cornflowerblue;
+}
+button{
+  background-color: cornflowerblue;
+  border: none;
+  color: white;
+  border-radius: 15px;
+  font-size: 1em;
+  font-family: 'Quicksand';
+
+}
